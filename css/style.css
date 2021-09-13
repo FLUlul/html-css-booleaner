@@ -47,3 +47,24 @@ a:link {
   ul{
       margin-bottom: 40px;
   }
+
+  #headerTabella{
+      background-color: rgb(26, 170, 230);
+      height: 1px;
+  }
+  #headerTabella td{
+      color: white;
+      font-weight: bold;
+  }
+  .rigaCeleste{
+      background-color: rgba(178,230,242,255);
+  }
+
+  table{
+      margin-bottom: 40px;
+      border-collapse: collapse;
+  }
+
+  td{
+      width: 33%;
+  }
