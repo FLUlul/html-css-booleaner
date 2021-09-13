@@ -32,3 +32,18 @@ a:link {
   a:visited {
     text-decoration: none;
   }
+
+  .due{
+    margin-bottom: 20px;
+  }
+
+  .evidenziato{
+      background-color: yellow;
+  }
+
+  #articoloPrincipale{
+      margin-bottom: 40px;
+  }
+  ul{
+      margin-bottom: 40px;
+  }
