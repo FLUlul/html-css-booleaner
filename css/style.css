@@ -14,3 +14,21 @@
     margin-top: 65px;
     margin-left: 20px;
 }
+
+#titoloAutoreData{
+    margin: 20px 0 20px 0;
+}
+#titoloAutoreData h4{
+    color: grey;
+}
+#titoloAutoreData h5{
+    color: grey;
+}
+
+a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
